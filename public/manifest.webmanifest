@@ -1,0 +1,10 @@
+{
+  "name": "求職年齢くらべ",
+  "short_name": "求職年齢",
+  "description": "求職者の年代構成を都道府県と年度で比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f4f1",
+  "theme_color": "#304238",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
